@@ -1,4 +1,4 @@
-# Employment management System
+# Employment Management System
 
 This is a web application for managing employee data built with Angular.
 
