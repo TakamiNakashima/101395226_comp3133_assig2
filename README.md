@@ -2,6 +2,8 @@
 
 This is a web application for managing employee data built with Angular.
 
+![Dashboard](./img/dashboard.png)
+
 ## Features
 
 - View a list of employees
