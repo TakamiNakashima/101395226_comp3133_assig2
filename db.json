@@ -1,14 +1,6 @@
 {
   "posts": [
     {
-      "id": "d2c0",
-      "firstName": "Suzy",
-      "lastName": "Bae",
-      "email": "suzy@s.com",
-      "gender": "Female",
-      "salary": "100,000"
-    },
-    {
       "id": "faa1",
       "firstName": "Mia",
       "lastName": "Nakashima",
@@ -17,7 +9,5 @@
       "salary": "200,000"
     }
   ],
-  "signUpUsers": [
-    
-  ]
+  "signUpUsers": []
 }
